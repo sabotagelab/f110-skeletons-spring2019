@@ -1,4 +1,4 @@
-# f110-fall2018-course
+# f110-skeletons-spring2019
 Skeleton codes for F110 Spring 2019 course at Oregon State University.
 
 In order to add the contents of this repository to your workspace on your local machine, do the following:
