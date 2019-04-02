@@ -1,12 +1,12 @@
 # f110-fall2018-course
-Skeleton codes for F110 Fall 2018 course at UPenn.
+Skeleton codes for F110 Spring 2019 course at Oregon State University.
 
 In order to add the contents of this repository to your workspace on your local machine, do the following:
 
 Clone this repository into a folder on your computer
 ```bash
 $ cd ~/sandbox (or whatever folder you want to work in)
-$ git clone https://github.com/mlab-upenn/f110-fall2018-skeletons.git
+$ git clone https://github.com/sabotagelab/f110-skeletons-spring2019.git
 ```
 
 We begin by creating a workspace. You can call your workspace anything, for the purposes of this setup guide we call our workspace f110_ws. In your root folder, execute these commands:
@@ -16,7 +16,7 @@ $ mkdir -p ~/f110_ws/src
 
 Copy the contents of this repository into ~/f110_ws/src
 ```bash
-$ cp -r f110-fall2018-skeletons f110_ws/src
+$ cp -r f110-skeletons-spring2019 f110_ws/src
 ```
 
 You will need to install these with apt-get in order for the car and Gazebo simulator to work.
