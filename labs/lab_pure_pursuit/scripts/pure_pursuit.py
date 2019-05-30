@@ -64,7 +64,7 @@ def callback(data):
     
 
     # 4. Calculate the curvature = 1/r = 2x/l^2
-    # The curvature is transformed into steering wheel angle by the vehicle on board controller.
+    # The curvature is transformed into steering wheel angle and published to the 'drive_param' topic.
     # Hint: You may need to flip to negative because for the VESC a right steering angle has a negative value.
 
     
